@@ -1,0 +1,2 @@
+# globaltiktok
+TikTok for Everybody!
